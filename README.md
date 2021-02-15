@@ -11,7 +11,7 @@ The goal of this project is to practice with:
 
 ## Setting up the Project
 
-cd <project directory>
+cd '<project directory>'
 -  npm install
 Choose the necessary installation for your development mode
 - npm i -D @babel/core @babel/preset-env babel-loader
