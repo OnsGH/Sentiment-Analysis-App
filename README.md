@@ -11,7 +11,7 @@ The goal of this project is to practice with:
 
 ## Setting up the Project
 
-cd project directory
+cd  project directory
 -  npm install
 Choose the necessary installation for your development mode
 - npm i -D @babel/core @babel/preset-env babel-loader
@@ -23,7 +23,7 @@ Choose the necessary installation for your development mode
 
 ## Setting up the API
 
-I used using the MeaningCloud Sentiment Analysis API for this project. Sign up for an API key.
+I used the MeaningCloud Sentiment Analysis API for this project. Sign up for an API key.
 You can find the API [here] : [https://www.meaningcloud.com/developer/sentiment-analysis]
 Signing up will get you an API key.
 
